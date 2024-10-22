@@ -23,7 +23,7 @@ Este site foi criado para apresentar nossa variedade de hambúrgueres artesanais
 
 ## Conclusão
 Este projeto representa um passo inicial para criar um site.
----
+
 
 ## Prints do Site
 ![alt text](7.png)
