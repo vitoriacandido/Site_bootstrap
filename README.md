@@ -19,7 +19,11 @@ Este site foi criado para apresentar nossa variedade de hambúrgueres artesanais
 - **Imagens**: Utilizamos imagens para representação visual dos produtos.
 
 ## Backlog
-
+- Integração com Banco de Dados: Armazenamento de informações sobre produtos e avaliações de clientes.
+- Sistema de Avaliações: Permitir que os clientes deixem avaliações e comentários sobre os hambúrgueres.
+- Funcionalidade de Busca: Implementação de um sistema de busca para facilitar a navegação.
+Seção de Promoções: Destaque para promoções e ofertas especiais.
+Otimização de SEO: Melhorar a visibilidade do site em mecanismos de busca.
 
 ## Conclusão
 Este projeto representa um passo inicial para criar um site.
