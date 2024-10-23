@@ -26,8 +26,6 @@ Este projeto representa um passo inicial para criar um site.
 
 
 ## Prints do Site
-![alt text](7.png)
-![alt text](6.png)
-![alt text](8.png)
-![alt text](rodapé.png)
-![alt text](<rodapé 2.png>)
+![alt text](image.png)
+![alt text](98.png)
+![alt text](47.png)
