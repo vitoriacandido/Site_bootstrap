@@ -4,38 +4,40 @@ body {
 
 header {
   background-color: #343a40;
-  color: rgb(54, 67, 255);
+  color: rgb(255, 255, 255);
 }
 
 main {
-  background-color: orange;
+  background-color: rgb(252, 133, 36);
 }
 
 footer {
-  background-color: #343a40;
-  color: rgb(39, 72, 255);
+  background-color: #000000;
+  color: rgb(94, 58, 255);
   text-align: center;
   padding: 10px 0;
 }
 
 .titulo-card {
-  color: brown;
+  color: rgb(160, 0, 0);
+  background-color: color(from color srgb r g b);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 2em;
 }
 
 p {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 15pt;
 }
 
 p {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 15pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1 {
-  color:aliceblue;
+  color:rgb(255, 251, 25);
   padding-top: 30px;
   padding-bottom: 30px;
+  font-size: 45pt;
+  text-shadow: 0.1em 0.1em 0.2em rgb(66, 0, 0);
 }
