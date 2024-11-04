@@ -30,4 +30,9 @@ Este projeto representa um passo inicial para criar um site.
 
 
 ## Prints do Site
+![alt text](g8.png) 
+![alt text](g7.png) 
+![alt text](g11.png) 
+![alt text](g10.png) 
+![alt text](g9.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------
