@@ -1,64 +1,35 @@
 body {
   font-family: serif;
+  background-color: #000000; /* Fundo da página */
+  color: #ffffff; /* Texto em branco para contraste */
 }
 
 header {
-  background-color: #000000;
-  color: rgb(255, 78, 78);
+  background-color: #000000; /* Preto para o cabeçalho */
+  color: rgb(255, 78, 78); /* Vermelho para o texto do cabeçalho */
 }
 
 main {
-  background-color: #000000;
+  background-color: #000000; /* Fundo principal */
 }
 
 footer {
-  background-color: #000000;
-  color: rgb(94, 58, 255);
+  background-color: #000000; /* Preto para o rodapé */
+  color: rgb(94, 58, 255); /* Roxo para o texto do rodapé */
   text-align: center;
   padding: 10px 0;
 }
 
-
 .card {
-  background-color: #ffb820; 
-  border: 1px solid #e41a1a;
+  background-color: #ffb820; /* Amarelo para os cards */
+  border: 1px solid #e41a1a; /* Vermelho para a borda dos cards */
   border-radius: 8px; 
-  box-shadow: 0 2px 10px rgba(79, 255, 55, 0.1); 
-  padding: 16px;
-  margin: 16px; 
-  max-width: 300px; 
-  font-family: Arial, sans-serif; 
-}
-
-
-p {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 15pt;
-}
-
-p {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-  color:rgb(187, 38, 1);
-  padding-top: 30px;
-  padding-bottom: 30px;
-  font-size: 45pt;
-  text-shadow: 0.1em 0.1em 0.2em rgb(255, 32, 32);
-}
-
-
-.card {
-  background-color: #ff8119;
-  border: 1px solid #ffc21b;
-  border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   padding: 24px; /* Aumenta o padding interno */
   margin: 20px; /* Aumenta a margem externa */
-  max-width: 4000px; /* Aumenta a largura máxima */
+  max-width: 300px; /* Largura máxima dos cards */
   font-family: Arial, sans-serif;
-  transition: transform 0.2s; /* Adiciona um efeito de transição */
+  transition: transform 0.2s; /* Efeito de transição */
 }
 
 .card:hover {
@@ -67,10 +38,24 @@ h1 {
 
 .card h2 {
   margin-top: 0;
-  color: #e40000;
+  color: #e40000; /* Vermelho para os títulos dos cards */
 }
 
 .card p {
-  color: #c23700;
+  color: #c23700; /* Laranja para o texto dos cards */
   line-height: 1.5; /* Aumenta o espaçamento entre linhas */
+}
+
+h1 {
+  color: rgb(187, 38, 1); /* Vermelho para os títulos */
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 45pt;
+  text-shadow: 0.1em 0.1em 0.2em rgb(255, 32, 32); /* Sombreamento do texto */
+}
+
+/* Remover duplicações de estilos */
+p {
+  font-family: Arial, Helvetica, sans-serif; /* Definindo uma única fonte para parágrafos */
+  font-size: 15pt; /* Tamanho padrão do texto */
 }
